@@ -1,0 +1,10 @@
+Package: MeTIL
+Type: Package
+Title: DNA methylation-based scoring model for assessment of CD8+ tumor-infiltrating lymphocytes
+Version: 1.0
+Author: Dr. Huichuan Yu
+Maintainer: Dr. Huichuan Yu <yuhch5@mail.sysu.edu.cn>
+Description: 
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
